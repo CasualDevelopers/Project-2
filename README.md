@@ -1,4 +1,5 @@
-# In this project our aim to developing app for diagnosing COVID-19 using DenseNet.
+# COVID-19 DETECTOR 
+In this project our aim to developing app for diagnosing COVID-19 using DenseNet.
  To run the project:
    1. Download all required python libraries.
    2. For running use command flask run.
