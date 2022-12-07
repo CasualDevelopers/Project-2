@@ -1,4 +1,4 @@
-# Covid-19 Detector using Densenet
+# Detector of COVID-19 using Deep Learning based model:
 In this project our aim to developing app for diagnosing COVID-19 using DenseNet.
  To run the project:
    1. Clone the git repository
