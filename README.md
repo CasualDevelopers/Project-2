@@ -1,4 +1,4 @@
-COVID-19 DETECTOR 
+# Covid-19 Detector using Densenet
 In this project our aim to developing app for diagnosing COVID-19 using DenseNet.
  To run the project:
    1. Download all required python libraries.
